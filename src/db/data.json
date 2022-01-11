@@ -1,0 +1,89 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "mouse",
+      "kor": "입",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 2,
+      "eng": "chage",
+      "kor": "바꾸다",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 3,
+      "eng": "bag",
+      "kor": "가방",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 3,
+      "eng": "clothes",
+      "kor": "옷",
+      "isDone": false
+    },
+    {
+      "day": "1",
+      "eng": "cup",
+      "kor": "컵",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "day": "2",
+      "eng": "keyboard",
+      "kor": "키보드",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "2",
+      "eng": "present",
+      "kor": "선물",
+      "isDone": false,
+      "id": 9
+    }
+  ]
+}
